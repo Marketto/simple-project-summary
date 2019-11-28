@@ -1,13 +1,13 @@
 {
   "name": "simple-project-summary",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "author": "Marco Ricupero",
   "license": "MIT",
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "serve": "npx vue-cli-service serve",
+    "build": "npx vue-cli-service build",
+    "lint": "npx vue-cli-service lint"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
