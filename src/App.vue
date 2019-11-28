@@ -35,4 +35,7 @@ export default {
   text-align: center;
   color: #2c3e50;
 }
+.table.b-table {
+  width: 100%;
+}
 </style>
